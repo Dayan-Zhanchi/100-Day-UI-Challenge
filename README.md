@@ -1,5 +1,5 @@
 # 100-UI-Challenge
-This is a collection of UI designs created from the [100 day UI challenge](http://www.dailyui.co/).
+This is a collection of UI designs created from the [100 day UI challenge](http://www.dailyui.co/). I will not make an user interface everyday because of the little time I have to work on these challenges, so this will ultimately be an accumulation of 100 UI's in indefinite time.
 
 ## Challenge #001 - Sign up form
 
