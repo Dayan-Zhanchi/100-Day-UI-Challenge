@@ -29,4 +29,4 @@ I learned the standard elements of login forms for mobile versions, which are:
 
 ### Solution
 
-![Image of the UI solution](https://github.com/Dayan-Zhanchi/100-UI-Challenge/blob/master/%23001%20-%20Sign%20up/Sign%20up%20-%20mobile%20version.png)
+![Image of the UI solution](https://github.com/Dayan-Zhanchi/100-UI-Challenge/blob/master/%23001%20-%20Sign%20up/Sign%20up%20-%20mobile%20version%202.png)
