@@ -4,7 +4,7 @@ This is a collection of UI designs created from the [100 day UI challenge](http:
 ## Challenge #001 - Sign up form
 
 ### Mobile version
-![Image of Sign up mobile version](https://github.com/Dayan-Zhanchi/100-UI-Challenge/blob/master/%23001%20-%20Sign%20up/Sign%20up%20-%20mobile%20version.png)
+![Image of Sign up mobile version](https://github.com/Dayan-Zhanchi/100-UI-Challenge/blob/master/%23001%20-%20Sign%20up/Sign%20up%20-%20mobile%20version%202.png)
 
 ### Website version
 **Coming soon**
