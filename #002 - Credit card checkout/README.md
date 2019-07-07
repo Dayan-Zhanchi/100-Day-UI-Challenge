@@ -14,6 +14,7 @@ The standard elements for a credit card checkout e.g:
 * Expiration date for the credit card
 <br/>
 Also some other things such as the different fields for the prices:
+<br/>
 * Taxes
 * Shipping price
 * Price of items
@@ -23,3 +24,4 @@ Also some other things such as the different fields for the prices:
 Furthermore, it seems important to place it in a conspicuous position since it's supposed to be the main element. As such, I think that the UI I created have some room for improvements.
 
 ## Solution
+![Credit card checkout](Credit%20card%20checkout.png)
